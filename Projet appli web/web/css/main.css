@@ -1,0 +1,8 @@
+/* This is my CSS file */
+/* Author : Abdelhamid dahal */ 
+
+.bg-cover{
+	background: url(../images/harvey.jpg);
+	height: 300px ;
+	background-size: cover;
+}
